@@ -2,3 +2,9 @@ Hi, I'm Ugochukwu Onyebuenyi a detail-oriented and analytical individual with st
 
 I've done two personal projects:
 Social Media Impact on Life & Global Fuel Prices 
+
+Contact me at:
+
+LinkedIn: https://www.linkedin.com/in/buggseey
+Email: ephevron@gmail.com 
+Kano, Nigeria 

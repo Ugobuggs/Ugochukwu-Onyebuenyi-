@@ -1,20 +1,4 @@
-# Hi, I'm Tunde 👋
-Data Analyst based in Kano, Nigeria
+Hi, I'm Ugochukwu Onyebuenyi a detail-oriented and analytical individual with strong proficiency in Microsoft Excel for data cleaning, analysis, and reporting. Skilled in Pivot Tables, Charts, Conditional Formatting, and complex formulas to transform raw data into actionable business insights. Currently expanding technical skills in SQL and advanced Excel functions. Seeking an entry-level Data Analyst or MIS Officer role where I can apply my analytical mindset and contribute to data-driven decision making while growing within a structured team. 
 
-### 🔧 Skills
-- **Excel**: Power Query, Power Pivot, DAX, Dashboards
-- **SQL**: MySQL, Joins, CTEs, Window Functions
-- **Visualization**: Power BI, Excel Charts
-- **Tools**: GitHub, Google Sheets
-
-### 📊 Featured Projects
-| Project | Tools Used | What I Solved |
-| --- | --- | --- |
-| [Supermarket Sales Analysis](link-to-repo) | Excel, Power Pivot | Found ₦2.1M loss from perishables. Created dashboard to track daily |
-| [Kano POS Agents Performance](link-to-repo) | SQL, Excel | Ranked 8,000 agents, identified top 5% driving 60% revenue |
-| [NEPA Bill Fraud Detection](link-to-repo) | Excel, DAX | Flagged 120 suspicious meters using consumption patterns |
-
-### 📫 Contact Me
-- LinkedIn: linkedin.com/in/yourname
-- Email: yourname@gmail.com
-- Location: Kano, Nigeria – Open to remote
+I've done two personal projects:
+Social Media Impact on Life & Global Fuel Prices 

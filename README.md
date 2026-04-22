@@ -6,5 +6,7 @@ Social Media Impact on Life & Global Fuel Prices
 Contact me at:
 
 LinkedIn: https://www.linkedin.com/in/buggseey
+
 Email: ephevron@gmail.com 
+
 Kano, Nigeria 
